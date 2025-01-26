@@ -49,10 +49,6 @@ model = T5ForConditionalGeneration.from_pretrained(
     device_map="auto"
 )
 
-help me create a github read.me file based on this python code for debate of agents
-Sure! Here's a README.md file for your GitHub repository based on the debate of agents Python code:
-
-markdown
 # Agent Debate System
 
 This repository contains a Python script for a debate system involving multiple agents and a moderator. The agents engage in discussions on a given topic, exploring different perspectives, while the moderator provides analytical reflections and a comprehensive synthesis at the end.
@@ -83,9 +79,9 @@ Run the script:
 
 sh
 python debate_system.py
-Enter a topic for philosophical discussion when prompted:
+Enter a topic for a discussion when prompted:
 
-Enter a topic for philosophical discussion:
+Enter a topic for a discussion:
 The agents will engage in a series of discussions, and the moderator will provide reflections and a final analytical synthesis at the end.
 
 ## Code Overview
