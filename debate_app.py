@@ -1,4 +1,4 @@
-# Generated using Continue (Claude Sonnet 3.5 model)
+# Generated using Codeastral (Claude Sonnet 3.5 model)
 
 from typing import List, Optional
 from transformers import T5ForConditionalGeneration, AutoTokenizer
